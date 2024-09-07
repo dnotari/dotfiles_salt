@@ -1,0 +1,5 @@
+base:
+  "*":
+    - base
+    - hyprland
+    - waybar
