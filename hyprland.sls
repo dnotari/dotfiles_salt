@@ -3,6 +3,7 @@
         - user: deckard
         - group: deckard
         - dir_mode: 755
+        - makedirs: True
         - recurse:
             - user
             - group
