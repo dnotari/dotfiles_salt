@@ -40,3 +40,7 @@ dunst:
   pkg.installed
 sddm:
   pkg.installed
+sway:
+  pkg.installed
+rofi:
+  pkg.installed
