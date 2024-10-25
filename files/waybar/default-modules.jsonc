@@ -7,22 +7,14 @@
     "margin-top": 5,
     "margin-left": 5,
     "margin-right": 5,
-    "hyprland/window": {
-        "format": "{}",
-        "on-click-right": "hyprctl dispatch killactive",
-        "max-length": 200
+    "sway/window": {
+        "format": "{title}",
+        "max-length": 50
     },
-    "hyprland/workspaces": {
-        "disable-scroll": false,
-        "on-scroll-up": "hyprctl dispatch workspace e+1",
-        "on-scroll-down": "hyprctl dispatch workspace e-1",
+    "sway/workspace": {
+        "disable-scroll": true,
         "all-outputs": true,
         "on-click": "activate"
-    },
-    "hyprland/language": {
-        "format": " {}",
-        "format-en": "en",
-        "format-es": "es"
     },
     "tray": {
         "icon-size": 12,
