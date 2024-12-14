@@ -14,10 +14,10 @@
         "modules-left": [
             "group/power",
             "clock",
-            "sway/workspaces"
+            "hyprland/workspaces"
         ],
         "modules-center": [
-            "sway/window"
+            "hyprland/window"
         ],
         "modules-right": [
             "mpris",

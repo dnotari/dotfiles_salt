@@ -7,11 +7,11 @@
     "margin-top": 5,
     "margin-left": 5,
     "margin-right": 5,
-    "sway/window": {
+    "hyprland/window": {
         "format": "{title}",
         "max-length": 50
     },
-    "sway/workspace": {
+    "hyprland/workspaces": {
         "disable-scroll": true,
         "all-outputs": true,
         "on-click": "activate"
@@ -189,7 +189,7 @@
     "custom/lock": {
         "format": "󰌾",
         "tooltip": false,
-        "on-click": "gtklock"
+        "on-click": "hyprlock"
     },
     "custom/reboot": {
         "format": "󰜉",
