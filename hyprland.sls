@@ -27,5 +27,7 @@ hyprland_conf:
                 - source: salt://files/hyprland/environment.conf
             - /home/deckard/.config/hypr/conf/autostart.conf:
                 - source: salt://files/hyprland/autostart.conf
-            - /home/deckard/.config/hypr/conf/hyprlock.conf:
+            - /home/deckard/.config/hypr/hyprlock.conf:
                 - source: salt://files/hyprland/hyprlock.conf
+            - /home/deckard/.config/hypr/hypridle.conf:
+                - source: salt://files/hyprland/hypridle.conf
