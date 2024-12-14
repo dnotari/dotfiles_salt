@@ -1,7 +1,7 @@
 rpmfusion_nonfree:
   pkg.installed:
     - sources:
-      - rpmfusion-nonfree-release: https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-39.noarch.rpm
+      - rpmfusion-nonfree-release: https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-41.noarch.rpm
 
 visual_code_repo:
   pkgrepo.managed:
