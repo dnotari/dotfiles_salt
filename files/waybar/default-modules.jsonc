@@ -241,5 +241,12 @@
             "custom/reboot",
             "custom/shutdown"
         ]
+    },
+    "idle_inhibitor": {
+        "format": "{icon}",
+        "format-icons": {
+            "activated": "",
+            "deactivated": ""
+        }
     }
 }

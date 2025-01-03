@@ -52,6 +52,7 @@
         ],
         "modules-right": [
             "mpris",
+            "idle_inhibitor",
             "group/audio",
             "group/system"
         ],
