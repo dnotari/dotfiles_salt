@@ -10,13 +10,23 @@ visual_code_repo:
     - gpgcheck: 1
     - gpgkey: https://packages.microsoft.com/keys/microsoft.asc
 
+neovim:
+  pkg.installed
+xfce-polkit:
+  pkg.installed
+tmux:
+  pkg.installed
 kitty:
   pkg.installed
 waybar:
   pkg.installed
-git:
+bat:
   pkg.installed
-neofetch:
+fzf:
+  pkg.installed
+fd:
+  pkg.installed
+git:
   pkg.installed
 papirus-icon-theme:
   pkg.installed
