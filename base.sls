@@ -32,6 +32,8 @@ hyprland:
   pkg.installed
 hyprlock:
   pkg.installed
+hypridle:
+  pkg.installed
 swaybg:
   pkg.installed
 code:
